@@ -355,17 +355,7 @@ docker run -d -p 8000:8000 guovern/iptv-api
 
 [更新日志](./CHANGELOG.md)
 
-## 关注
 
-### Github
-
-关注我的Github账号[Guovin](https://github.com/Guovin)，获取更多实用项目
-
-### 微信公众号
-
-微信公众号搜索 Govin，或扫码，接收更新推送、学习更多使用技巧：
-
-![微信公众号](./static/images/qrcode.jpg)
 
 ## Star统计
 
