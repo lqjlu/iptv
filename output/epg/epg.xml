@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20251111061144 +0800">
+<tv date="20251111070744 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -24612,6 +24612,12 @@
 	<programme channel="NewTV动作电影" start="20251111103900 +0800" stop="20251111121800 +0800">
 		<title lang="zh">危险境地</title>
 	</programme>
+	<programme channel="NewTV动作电影" start="20251111121800 +0800" stop="20251111125800 +0800">
+		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV动作电影" start="20251111125800 +0800" stop="20251111143400 +0800">
+		<title lang="zh">敦刻尔克行动</title>
+	</programme>
 	<channel id="NewTV惊悚悬疑">
 		<display-name lang="zh">NewTV惊悚悬疑</display-name>
 	</channel>
@@ -24647,6 +24653,12 @@
 	</programme>
 	<programme channel="NewTV惊悚悬疑" start="20251111115400 +0800" stop="20251111123400 +0800">
 		<title lang="zh">营养健康40</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251111123400 +0800" stop="20251111140100 +0800">
+		<title lang="zh">迷毒之天命圈</title>
+	</programme>
+	<programme channel="NewTV惊悚悬疑" start="20251111140100 +0800" stop="20251111142100 +0800">
+		<title lang="zh">健康推荐</title>
 	</programme>
 	<channel id="IPTV经典电影">
 		<display-name lang="zh">IPTV经典电影</display-name>
