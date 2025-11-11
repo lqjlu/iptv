@@ -209,6 +209,8 @@
 
 此时您可以访问文件链接，查看最新结果有没有同步即可：
 https://raw.githubusercontent.com/您的github用户名/仓库名称（对应上述Fork创建时的iptv-api）/master/output/user_result.txt
+https://raw.githubusercontent.com/lqjlu/iptv/master/output/luresult.txt
+
 
 或者代理地址：
 https://cdn.jsdelivr.net/gh/您的github用户名/仓库名称（对应上述Fork创建时的TV）@master/output/user_result.txt
